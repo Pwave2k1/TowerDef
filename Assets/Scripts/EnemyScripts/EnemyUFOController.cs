@@ -5,7 +5,6 @@ using UnityEngine;
 
 public class EnemyUFOController : EnemyBase
 {
-
     private void Start()
     {
         _hp = _enemySO.Hp;
